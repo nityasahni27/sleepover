@@ -1,0 +1,7 @@
+[gd_scene format=3 uid="uid://b0wn65rv6gnpr"]
+
+[ext_resource type="AudioStream" uid="uid://cid4701vopig" path="res://assets/620041__alexmiller2000__whisper.wav" id="1_05ggv"]
+
+[node name="Music" type="AudioStreamPlayer2D" unique_id=1751086613]
+stream = ExtResource("1_05ggv")
+autoplay = true
